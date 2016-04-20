@@ -1,1 +1,2 @@
 c:\users\himea\documents\visual studio 2015\Projects\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\himea\Documents\tetris\Tetris\Tetris\bin\Debug\Tetris.exe.config
